@@ -1,14 +1,13 @@
 Thumbs.db*
 .DS_Store
 HELP.md
-.gradle
 build/
-.appveyor.yml
-build.gradle
-.gradle
-gradlew
-gradlew.bat
-settings.gradle
+/.gradle
+/.appveyor.yml
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
 
 
 ### STS ###
